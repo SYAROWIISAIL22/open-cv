@@ -13,5 +13,16 @@ Untuk memulai, clone repository ini ke mesin lokal Anda:
 ```bash
 git clone git@github.com:SYAROWIISAIL22/open-cv.git
 cd open-cv
+```
+## turorial intalasi
+
+##
+```bash
+pip install -r requirements.txt
+```
+
+## jalankan file
+```bash
+python3 <nama_file>
 
 
